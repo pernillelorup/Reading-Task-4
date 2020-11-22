@@ -18,7 +18,7 @@ Your task is to
 ### Task
 
 I found this assignment very difficult to solve as all twelve steps make sense to use and I believe the steps have remained in the same position for so long for a reason. All of the steps are important when writing an application, however not all of the factors need to be in the specific order.
-If I could I wouldn't change anything about the twelve factor app but because the assignment says to re-order the factors I have tried to do so. But as just stated, I only reordered the factors that I believe can be done in more than one specific order.
+If I could I wouldn't change anything about the twelve factor app but because the assignment says to re-order the factors I have tried to do so. But as just stated, I only reordered some of the factors that I believe can be done in more than one specific order.
 
 ### Original vs Re-ordered twelve factor app
 
